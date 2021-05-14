@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.divHeader {
+	width: 100%;
+}
+
+.divHeader header {
+    color: #fff;
+	text-align: center;
+}
+
+.main-container {
+	position: relative;
+	top: 130px;
+    margin-bottom: 250px;
+}
+
+footer {
+    color: #fff;
+	text-align: center;
+    position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 20px;
+}
