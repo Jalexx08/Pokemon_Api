@@ -38,7 +38,7 @@ const dibujarData = (data) => {
 	        <img src="${pokemon.sprites.front_default}" class="card-img-top" alt="${pokemon.name}">
 	        <div class="card-body text-center">
 	            <h5 class="card-title">${pokemon.name}</h5>
-	            <p class="card-text">Altura: ${Number(pokemon.height)/10}m <br>Peso: ${Number(pokemon.weight)/10}kg <br>Experiencia base: ${pokemon.base_experience} </p>
+	            <p class="card-text">Altura: ${Number(pokemon.height)/10}m <br>Peso: ${Number(pokemon.weight)/10}kg <br>Experiencia base: ${pokemon.base_experience}p </p>
 	        </div>
 	        </div>
 	    </div>
