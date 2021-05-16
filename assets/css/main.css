@@ -49,6 +49,11 @@ body {
 	margin-bottom: 100px;
 }
 
+.main-container .types {
+	position: relative;
+	bottom: 24px;
+}
+
 footer {
 	color: #fff;
 	text-align: center;
